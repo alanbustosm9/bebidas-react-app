@@ -1,3 +1,6 @@
-# Aplicacion de React creado por Alan Bustos
+# Aplicación de React creado por Alan Bustos
 
-Esta aplicacion fue creada usando useContext con una API de creacion de bebidas con sus cantidades e ingredientes
+Esta aplicación fue creada usando useContext con una API de pasos para la creación de bebidas con sus cantidades e ingredientes
+
+# Página de Netlify para ver el resultado
+https://lucid-engelbart-f6e626.netlify.app/
